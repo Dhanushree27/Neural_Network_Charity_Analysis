@@ -70,7 +70,7 @@ Despite more than 20 attempts to optimize the model by removing noise, changing 
 ## Summary
 The final model using 3 hidden layers with 'relu' activation was able to achieve accuracy of 73.4%. Despite different combinations in the model, the accuracy fluctuated between 72.8 to 73.4%. The 'sigmoid' activation model also rivaled in performance to the 'relu' activation model.
 
-Attempting to classify the data using RandomForestClassifier and LogisticRegression resulted in accuracy scores of 70.2% and 72.2% respectively, suggesting that the deep learning model has performed better in this case. Further attempts can be made to tune the deep learning model to achieve a better accuracy score.
+Attempting to classify the data using RandomForestClassifier and LogisticRegression resulted in accuracy scores of 70.2% and 72.2% respectively, suggesting that the deep learning model has performed better in this case. Further attempts can be made to tune the deep learning model to achieve a better accuracy score. Alternatively, Support vector matrices can also be used for binary classification
 
 
 
